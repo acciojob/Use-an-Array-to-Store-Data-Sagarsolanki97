@@ -1,2 +1,2 @@
-let yourArray = ["hello","sagar","one","!","0"];
+let yourArray = ["hello","sagar","1","!","0"];
 console.log(yourArray.length);
